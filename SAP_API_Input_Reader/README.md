@@ -1,0 +1,2 @@
+## type.go
+type.go は、[rededge](https://github.com/latonaio/rededge) の [EC_MC_sample_planned_independent_requirement_reads.json](https://github.com/latonaio/rededge/blob/main/samples/EC_MC_sample_planned_independent_requirement_reads.json) と、[SDC_Planned_Independent_Requirement_sample.json](https://github.com/latonaio/rededge/blob/main/samples/SDC_Planned_Independent_Requirement_sample.json) を [こちら](https://mholt.github.io/json-to-go/) のツールでコンバートしたうえで、加工を加えたものです。

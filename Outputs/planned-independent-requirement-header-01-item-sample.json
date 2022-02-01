@@ -1,0 +1,26 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-planned-independent-requirement-reads/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-planned-independent-requirement-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"Update_mc": true,
+			"to_PlndIndepRqmtItem_oc": true,
+			"Product": "FG-FL-MV-V00",
+			"Plant": "1710",
+			"MRPArea": "1710",
+			"PlndIndepRqmtType": "VSF",
+			"PlndIndepRqmtVersion": "00",
+			"RequirementPlan": "",
+			"RequirementSegment": "",
+			"RequirementPlanIsExternal": false,
+			"PlndIndepRqmtInternalID": "101",
+			"PlndIndepRqmtIsActive": "X",
+			"WBSElement": "",
+			"PlndIndepRqmtAcctAssgmtCat": "",
+			"PlndIndepRqmtLastChgdDateTime": "",
+			"to_Item": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_PLND_INDEP_RQMT_SRV/PlannedIndepRqmt(Product='FG-FL-MV-V00',Plant='1710',MRPArea='1710',PlndIndepRqmtType='VSF',PlndIndepRqmtVersion='00',RequirementPlan='',RequirementSegment='')/to_PlndIndepRqmtItem"
+		}
+	],
+	"time": "2022-01-28T14:16:58+09:00"
+}

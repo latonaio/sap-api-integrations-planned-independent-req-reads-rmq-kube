@@ -1,0 +1,26 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"PlannedIndependentRequirement": {
+		"Product": "FG-FL-MV-V00",
+		"Plant": "1710",
+		"MRPArea": "1710",
+		"PlndIndepRqmtType": "VSF",
+		"PlndIndepRqmtVersion": "00",
+		"RequirementPlan": "",
+        "RequirementSegment": "",
+		"PlndIndepRqmtInternalID": "101",
+		"UnitOfMeasure": "",
+		"PlndIndepRqmtPeriod": "",
+		"PlndIndepRqmtPeriodStartDate": "",
+		"PlannedQuantity": "",
+		"LastChangeDate": ""
+	},
+	"api_schema": "/PlannedIndepRqmt",
+	"accepter": ["Header"],
+	"material_code": "FG-FL-MV-V00",
+	"plant": "1710",
+	"deleted": false
+}

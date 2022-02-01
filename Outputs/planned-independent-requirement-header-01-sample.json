@@ -1,0 +1,50 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-planned-independent-requirement-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-planned-independent-requirement-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"Update_mc": true,
+			"Product": "FG-FL-MV-V00",
+			"Plant": "1710",
+			"MRPArea": "1710",
+			"PlndIndepRqmtType": "VSF",
+			"PlndIndepRqmtVersion": "00",
+			"RequirementPlan": "",
+			"RequirementSegment": "",
+			"PlndIndepRqmtPeriod": "201711",
+			"PeriodType": "M",
+			"PlndIndepRqmtPeriodStartDate": "2017-11-01T09:00:00+09:00",
+			"PlndIndepRqmtInternalID": "101",
+			"WorkingDayDate": "2017-11-01T09:00:00+09:00",
+			"PlannedQuantity": "0",
+			"WithdrawalQuantity": "0",
+			"UnitOfMeasure": "PC",
+			"LastChangedByUser": "CB9980000078",
+			"LastChangeDate": "2017-11-28T09:00:00+09:00",
+			"PlndIndepRqmtLastChgdDateTime": ""
+		},
+		{
+			"Update_mc": true,
+			"Product": "FG-FL-MV-V00",
+			"Plant": "1710",
+			"MRPArea": "1710",
+			"PlndIndepRqmtType": "VSF",
+			"PlndIndepRqmtVersion": "00",
+			"RequirementPlan": "",
+			"RequirementSegment": "",
+			"PlndIndepRqmtPeriod": "201712",
+			"PeriodType": "M",
+			"PlndIndepRqmtPeriodStartDate": "2017-12-01T09:00:00+09:00",
+			"PlndIndepRqmtInternalID": "101",
+			"WorkingDayDate": "2017-12-01T09:00:00+09:00",
+			"PlannedQuantity": "0",
+			"WithdrawalQuantity": "0",
+			"UnitOfMeasure": "PC",
+			"LastChangedByUser": "CB9980000078",
+			"LastChangeDate": "2017-11-28T09:00:00+09:00",
+			"PlndIndepRqmtLastChgdDateTime": ""
+		}
+	],
+	"time": "2022-01-28T14:16:59+09:00"
+}
